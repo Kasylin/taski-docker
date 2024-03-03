@@ -71,7 +71,7 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 #         'ENGINE': 'django.db.backends.sqlite3',
 #         'NAME': '/data/db.sqlite3',
 #     }
-# } 
+# }
 DATABASES = {
     'default': {
         # Меняем настройку Django: теперь для работы будет использоваться
